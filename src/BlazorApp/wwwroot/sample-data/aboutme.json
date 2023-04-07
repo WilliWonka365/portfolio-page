@@ -1,12 +1,11 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Als Softwareentwickler mit langjähriger Erfahrung habe ich mich auf die Entwicklungen von Business-Anwendungen im Bereich Individualentwicklung spezialisiert.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Windows-Anwendungen in .NET",
+    "Web-Entwikclung mit Angular",
+    "Multiplattform-Anwendungen mit .NET MAUI",
+    "Modernes UI-Design",
+    "Datenbanken (MS-SQL, SQlite, Oracle)"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Ich erstelle Ihnen Anwendungen nach Ihren Wünschen. Dabei ist das oberstes Ziel die Kundenzufriedenheit auf allen Ebenen."
 }
